@@ -2,6 +2,25 @@
 
 ![spicecloudlogo](https://github.com/user-attachments/assets/c935c082-1f44-4b2c-adf3-d6cef059d1e5)
 
+# SPICE CLOUD WAS IMPLEMENTED INSIDE THE SPICECODE PROJECT
+# https://github.com/spicecodecli/spicecode
+
+
+
+
+
+
+
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
+----------------------
 
 # SpiceCode Dashboard - README
 
