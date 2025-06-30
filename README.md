@@ -1,3 +1,8 @@
+![spicecloud-logo-text](https://github.com/user-attachments/assets/e90df7cf-587f-4533-af28-661ca40f3b94)
+
+![spicecloudlogo](https://github.com/user-attachments/assets/c935c082-1f44-4b2c-adf3-d6cef059d1e5)
+
+
 # SpiceCode Dashboard - README
 
 A full-stack web application that serves as a dashboard for the SpiceCode CLI code analyzer. This application allows users to track code quality metrics over time, visualize trends, and manage multiple projects.
